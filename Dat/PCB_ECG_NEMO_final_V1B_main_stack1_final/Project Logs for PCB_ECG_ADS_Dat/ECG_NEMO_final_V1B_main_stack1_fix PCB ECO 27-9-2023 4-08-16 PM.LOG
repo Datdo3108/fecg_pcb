@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Signal_3 Pin=TP2-1
+Removed Pin From Net: NetName=Signal_4 Pin=TP3-1
+Removed Member From Class: ClassName=ECG_NEMO_final_V1B_main_stack1_fix Member=TP2
+Removed Member From Class: ClassName=ECG_NEMO_final_V1B_main_stack1_fix Member=TP3

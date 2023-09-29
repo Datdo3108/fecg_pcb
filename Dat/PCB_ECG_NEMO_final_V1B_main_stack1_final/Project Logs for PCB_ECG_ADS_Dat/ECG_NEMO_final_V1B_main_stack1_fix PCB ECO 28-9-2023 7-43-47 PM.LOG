@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+2.5V Pin=J8-1
+Removed Pin From Net: NetName=Elec_2 Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-5
+Removed Pin From Net: NetName=-2.5V Pin=J8-7
+Removed Pin From Net: NetName=-2.5V Pin=J8-9
+Removed Pin From Net: NetName=GND Pin=J8-11
+Removed Pin From Net: NetName=Elec_1 Pin=J8-13
+Removed Pin From Net: NetName=+2.5V Pin=J8-15
+Removed Pin From Net: NetName=Signal_3 Pin=J8-17
+Removed Pin From Net: NetName=Signal_4 Pin=J8-19
+Added Pin To Net: NetName=Signal_3 Pin=J8-1
+Added Pin To Net: NetName=Signal_4 Pin=J8-3

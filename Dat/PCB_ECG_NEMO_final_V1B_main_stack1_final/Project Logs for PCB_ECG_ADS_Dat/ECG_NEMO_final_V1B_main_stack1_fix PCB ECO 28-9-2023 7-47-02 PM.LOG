@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+2.5V Pin=J8-5
+Added Pin To Net: NetName=Elec_2 Pin=J8-7
+Added Pin To Net: NetName=GND Pin=J8-9
+Added Pin To Net: NetName=-2.5V Pin=J8-11
+Added Pin To Net: NetName=-2.5V Pin=J8-13
+Added Pin To Net: NetName=GND Pin=J8-15
+Added Pin To Net: NetName=Elec_1 Pin=J8-17
+Added Pin To Net: NetName=+2.5V Pin=J8-19

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Signal_4 Pin=J8-17
+Removed Pin From Net: NetName=Signal_3 Pin=J8-18
+Add Component: Footprint Not Found SM-0805
+Add Component: Footprint Not Found TP1
+Add Component: Footprint Not Found TP1
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Class Member: Failed to add class member : Component R29 1k
+Add Class Member: Failed to add class member : Component TP2 TP
+Add Class Member: Failed to add class member : Component TP3 TP

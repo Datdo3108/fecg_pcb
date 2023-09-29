@@ -1,0 +1,6 @@
+Add Component: Footprint Not Found SM-0805
+Added Pin To Net: NetName=Signal_4 Pin=J8-17
+Added Pin To Net: NetName=Signal_3 Pin=J8-18
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Class Member: Failed to add class member : Component R29 1k
