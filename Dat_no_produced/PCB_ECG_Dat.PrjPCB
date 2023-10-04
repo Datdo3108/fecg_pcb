@@ -1592,11 +1592,6 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
-[NetInfos]
-Net1=NetName=+2.5V|NetColor=$0000EEFF
-Net2=NetName=-2.5V|NetColor=$00FFFF6E
-Net3=NetName=DVDD|NetColor=$006EFF6E
-
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
