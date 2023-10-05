@@ -1,0 +1,24 @@
+Added Component: Designator=Pad1(04P 2.5mm)
+Added Component: Designator=Pad2(04P 2.5mm)
+Added Component: Designator=Pad3(04P 2.5mm)
+Added Component: Designator=Pad4(04P 2.5mm)
+Added Pin To Net: NetName=+2.5V Pin=Pad1-1
+Added Pin To Net: NetName=GND Pin=Pad1-2
+Added Pin To Net: NetName=Elec_3 Pin=Pad1-3
+Added Pin To Net: NetName=-2.5V Pin=Pad1-4
+Added Pin To Net: NetName=-2.5V Pin=Pad2-1
+Added Pin To Net: NetName=Elec_4 Pin=Pad2-2
+Added Pin To Net: NetName=GND Pin=Pad2-3
+Added Pin To Net: NetName=+2.5V Pin=Pad2-4
+Added Pin To Net: NetName=+2.5V Pin=Pad3-1
+Added Pin To Net: NetName=GND Pin=Pad3-2
+Added Pin To Net: NetName=Elec_5 Pin=Pad3-3
+Added Pin To Net: NetName=-2.5V Pin=Pad3-4
+Added Pin To Net: NetName=-2.5V Pin=Pad4-1
+Added Pin To Net: NetName=Elec_6 Pin=Pad4-2
+Added Pin To Net: NetName=GND Pin=Pad4-3
+Added Pin To Net: NetName=+2.5V Pin=Pad4-4
+Added Member To Class: ClassName=ECG_NEMO_final Member=Component Pad1 4P pad
+Added Member To Class: ClassName=ECG_NEMO_final Member=Component Pad2 4P pad
+Added Member To Class: ClassName=ECG_NEMO_final Member=Component Pad3 4P pad
+Added Member To Class: ClassName=ECG_NEMO_final Member=Component Pad4 4P pad
